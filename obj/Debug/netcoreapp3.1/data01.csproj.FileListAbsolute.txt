@@ -1,0 +1,15 @@
+C:\Marek\WSB\OOP\Blazor\Tut5\data01\obj\Debug\netcoreapp3.1\data01.csprojAssemblyReference.cache
+C:\Marek\WSB\OOP\Blazor\Tut5\data01\obj\Debug\netcoreapp3.1\data01.AssemblyInfoInputs.cache
+C:\Marek\WSB\OOP\Blazor\Tut5\data01\obj\Debug\netcoreapp3.1\data01.AssemblyInfo.cs
+C:\Marek\WSB\OOP\Blazor\Tut5\data01\obj\Debug\netcoreapp3.1\data01.csproj.CoreCompileInputs.cache
+C:\Marek\WSB\OOP\Blazor\Tut5\data01\obj\Debug\netcoreapp3.1\data01.MvcApplicationPartsAssemblyInfo.cache
+C:\Marek\WSB\OOP\Blazor\Tut5\data01\obj\Debug\netcoreapp3.1\data01.RazorComponent.input.cache
+C:\Marek\WSB\OOP\Blazor\Tut5\data01\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Marek\WSB\OOP\Blazor\Tut5\data01\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Marek\WSB\OOP\Blazor\Tut5\data01\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Marek\WSB\OOP\Blazor\Tut5\data01\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Marek\WSB\OOP\Blazor\Tut5\data01\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Marek\WSB\OOP\Blazor\Tut5\data01\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Marek\WSB\OOP\Blazor\Tut5\data01\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Marek\WSB\OOP\Blazor\Tut5\data01\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Marek\WSB\OOP\Blazor\Tut5\data01\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
